@@ -1,2 +1,0 @@
-# HelloZKY
-helloZKY_desc
